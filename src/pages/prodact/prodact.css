@@ -1,0 +1,17 @@
+.product_blok{
+    padding-top: 150px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+
+}
+
+.product_list{
+    background: #a79e9e;
+    border-radius: 12px;
+    text-align: center;
+    padding-bottom: 12px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
